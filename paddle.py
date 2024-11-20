@@ -1,5 +1,6 @@
 class Paddle:
     def __init__(self, width, height, color, my_turtle):
+        #this is explore2 branch
         self.width = width
         self.height = height
         self.location = [0, 0]
